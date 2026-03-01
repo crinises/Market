@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gazdă: 127.0.0.1
--- Timp de generare: mart. 01, 2026 la 02:08 PM
+-- Timp de generare: mart. 01, 2026 la 04:16 PM
 -- Versiune server: 10.4.32-MariaDB
 -- Versiune PHP: 8.2.12
 
@@ -64,6 +64,14 @@ CREATE TABLE `comenzi` (
   `data_cmd` datetime DEFAULT current_timestamp()
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
+--
+-- Eliminarea datelor din tabel `comenzi`
+--
+
+INSERT INTO `comenzi` (`id`, `nume`, `prenume`, `telefon`, `email`, `id_prod`, `cantitate`, `data_cmd`) VALUES
+(1, 'Gilca', 'Cristina', '37367200699', 'cleoc2058@gmail.com', 33, 2, '2026-03-01 15:15:01'),
+(2, 'Cristina', 'Gilca', '0672007888', 'djsdhsbd@gmail.com', 24, 2, '2026-03-01 15:30:06');
+
 -- --------------------------------------------------------
 
 --
@@ -119,6 +127,31 @@ INSERT INTO `prod` (`id`, `id_cat`, `nume`, `pret`, `stoc`, `um`) VALUES
 (33, 9, 'Crema maini', 15.00, 40, 'buc'),
 (34, 9, 'Sapun solid', 6.00, 90, 'buc');
 
+-- --------------------------------------------------------
+
+--
+-- Structură tabel pentru tabel `users`
+--
+
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL,
+  `nume` varchar(100) NOT NULL,
+  `prenume` varchar(100) NOT NULL,
+  `username` varchar(80) NOT NULL,
+  `parola` varchar(255) NOT NULL,
+  `role` varchar(20) NOT NULL DEFAULT 'user',
+  `email` varchar(150) NOT NULL,
+  `phone` varchar(20) DEFAULT NULL,
+  `data_add` datetime DEFAULT current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Eliminarea datelor din tabel `users`
+--
+
+INSERT INTO `users` (`id`, `nume`, `prenume`, `username`, `parola`, `role`, `email`, `phone`, `data_add`) VALUES
+(1, 'Celestia', 'Admin', 'Celestia', 'celestia', 'admin', 'cleo@gmail.com', '069000000', '2026-03-01 17:15:15');
+
 --
 -- Indexuri pentru tabele eliminate
 --
@@ -144,6 +177,14 @@ ALTER TABLE `prod`
   ADD KEY `id_cat` (`id_cat`);
 
 --
+-- Indexuri pentru tabele `users`
+--
+ALTER TABLE `users`
+  ADD PRIMARY KEY (`id`),
+  ADD UNIQUE KEY `username` (`username`),
+  ADD UNIQUE KEY `email` (`email`);
+
+--
 -- AUTO_INCREMENT pentru tabele eliminate
 --
 
@@ -157,13 +198,19 @@ ALTER TABLE `cat`
 -- AUTO_INCREMENT pentru tabele `comenzi`
 --
 ALTER TABLE `comenzi`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 
 --
 -- AUTO_INCREMENT pentru tabele `prod`
 --
 ALTER TABLE `prod`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=35;
+
+--
+-- AUTO_INCREMENT pentru tabele `users`
+--
+ALTER TABLE `users`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- Constrângeri pentru tabele eliminate
