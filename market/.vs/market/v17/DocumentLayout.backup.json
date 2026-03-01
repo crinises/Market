@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristina\\Desktop\\Market\\market\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:productswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\productswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:productswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|c:\\users\\cristina\\desktop\\market\\market\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D106F79C-3429-423B-AB33-923A253587AD}|market.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\OrderWindow.xaml",
+              "RelativeToolTip": "OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T13:32:26.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "OrderWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:32:24.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-01T13:05:17.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\ProductsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\ProductsWindow.xaml.cs",
+              "RelativeToolTip": "ProductsWindow.xaml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwG0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:57:50.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\ProductsWindow.xaml",
+              "RelativeDocumentMoniker": "ProductsWindow.xaml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\ProductsWindow.xaml*",
+              "RelativeToolTip": "ProductsWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-28T23:39:08.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:36:44.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\Window1.xaml*",
+              "RelativeToolTip": "Window1.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-28T23:14:53.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\DB.cs",
+              "RelativeDocumentMoniker": "DB.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\DB.cs",
+              "RelativeToolTip": "DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T13:09:32.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-28T23:12:08.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Cristina\\Desktop\\Market\\market\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Cristina\\Desktop\\Market\\market\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T23:12:04.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
