@@ -25,16 +25,23 @@ namespace market
             InitializeComponent();
         }
 
-        //private void ChkVizitator_Changed(object sender, RoutedEventArgs e)
-        //{
-        //    bool vizitator = chkVizitator.IsChecked == true;
-        //    txtUser.IsEnabled = !vizitator;
-        //    txtPass.IsEnabled = !vizitator;
-        //    errBorder.Visibility = Visibility.Collapsed;
-        //}
+        private void ChkVizitator_Changed(object sender, RoutedEventArgs e)
+        {
+            bool vizitator = chkVizitator.IsChecked == true;
+            txtUser.IsEnabled = !vizitator;
+            txtPass.IsEnabled = !vizitator;
+            errBorder.Visibility = Visibility.Collapsed;
+        }
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
+            if (chkVizitator.IsChecked == true)
+            {
+                new Window1().Show();
+                this.Close();
+                return;
+            }
+
             
 
             string user = txtUser.Text.Trim();

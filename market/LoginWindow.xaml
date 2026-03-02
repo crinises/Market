@@ -241,6 +241,16 @@
                                            TextWrapping="Wrap"/>
                             </Border>
 
+                            <CheckBox x:Name="chkVizitator"
+          Content="  Continuă ca vizitator"
+          Foreground="#2D6A4F"
+          FontFamily="Segoe UI"
+          FontSize="13"
+          Cursor="Hand"
+          Margin="0,0,0,20"
+          Checked="ChkVizitator_Changed"
+          Unchecked="ChkVizitator_Changed"/>
+
                             <Button Content="Intră în cont →"
                                     Style="{StaticResource PrimaryBtn}"
                                     HorizontalAlignment="Stretch"
